@@ -1,0 +1,26 @@
+p.italic{
+  font-style: italic;
+  }
+.bold{
+  font-weight: bold;
+}
+ul{
+  list-style-type: none;
+  padding: 0px;
+}
+body{
+  width:300px;
+  border: 1px solid #d3dae5;
+  box-shadow: 5px 5px 3px #dee3ea;
+  padding: 10px;
+}
+.info{
+  border: 1px solid #d3dae5;
+  padding: 10px;
+  width: 280px;
+  margin-top:10px;
+}
+.husky-pic{
+  width: 300px;
+
+}
